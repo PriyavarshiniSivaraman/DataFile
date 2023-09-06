@@ -1,4 +1,4 @@
-export const Part=
+ const Part=
 {
   "msg": "OK",
   "data": [
