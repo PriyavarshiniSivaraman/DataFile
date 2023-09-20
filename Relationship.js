@@ -1,4 +1,4 @@
-const relData = 
+const relData=
 {
   "msg": "OK",
   "data": [
@@ -67,7 +67,7 @@ const relData =
           "name": "IZPriya",
           "relationship": "EBOM",
           "level": "1",
-          "quantity": 4,
+          "quantity": 3,
           "format.file.name": null,
           "type": "Part"
         },
@@ -75,7 +75,7 @@ const relData =
           "name": "IZPriya",
           "relationship": "EBOM",
           "level": "1",
-          "quantity": 4,
+          "quantity": 3,
           "format.file.name": null,
           "type": "Part"
         },
@@ -83,7 +83,7 @@ const relData =
           "name": "IZPriya",
           "relationship": "EBOM",
           "level": "1",
-          "quantity": 4,
+          "quantity": 3,
           "format.file.name": null,
           "type": "Part"
         }
@@ -178,7 +178,7 @@ const relData =
           "name": "IZVarsh",
           "relationship": "EBOM",
           "level": "1",
-          "quantity": 5,
+          "quantity": 4,
           "format.file.name": null,
           "type": "Part"
         },
@@ -186,7 +186,7 @@ const relData =
           "name": "IZVarsh",
           "relationship": "EBOM",
           "level": "1",
-          "quantity": 5,
+          "quantity": 4,
           "format.file.name": null,
           "type": "Part"
         },
@@ -194,7 +194,7 @@ const relData =
           "name": "IZVarsh",
           "relationship": "EBOM",
           "level": "1",
-          "quantity": 5,
+          "quantity": 4,
           "format.file.name": null,
           "type": "Part"
         },
@@ -202,7 +202,7 @@ const relData =
           "name": "IZVarsh",
           "relationship": "EBOM",
           "level": "1",
-          "quantity": 5,
+          "quantity": 4,
           "format.file.name": null,
           "type": "Part"
         },
